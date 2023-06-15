@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="315bae7f-e3d0-4a8b-bfaf-01f55259e42a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="4bb6685e-8deb-4438-9dd5-c36493a26863" />
+  <component name="ProjectId" id="1Xbitxo7dpyxC3uf3Ank1r1C6dI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.challenge 35 - Loan Calculator App -">
+    <configuration name="challenge 31 - Python Dice App -" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge 31 - Python Dice App -.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="challenge 32 - Python Calculator App -" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge 32 - Python Calculator App -.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="challenge 33 - Bank Deposit and withdrawal Program -" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge 33 - Bank Deposit and withdrawal Program -.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="challenge 34 - Head to Head Tic Tac Toe App -" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge 34 - Head to Head Tic Tac Toe App -.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="challenge 35 - Loan Calculator App -" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge 35 - Loan Calculator App -.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.challenge 35 - Loan Calculator App -" />
+        <item itemvalue="Python.challenge 34 - Head to Head Tic Tac Toe App -" />
+        <item itemvalue="Python.challenge 33 - Bank Deposit and withdrawal Program -" />
+        <item itemvalue="Python.challenge 32 - Python Calculator App -" />
+        <item itemvalue="Python.challenge 31 - Python Dice App -" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="315bae7f-e3d0-4a8b-bfaf-01f55259e42a" name="Default Changelist" comment="" />
+      <created>1581422688852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581422688852</updated>
+      <workItem from="1584993971203" duration="45000" />
+      <workItem from="1584994725075" duration="4432000" />
+      <workItem from="1585000953230" duration="165000" />
+      <workItem from="1585085875296" duration="8567000" />
+      <workItem from="1585120140019" duration="10586000" />
+      <workItem from="1585216042772" duration="3274000" />
+      <workItem from="1585219403397" duration="15832000" />
+      <workItem from="1585299088334" duration="6410000" />
+      <workItem from="1585390656795" duration="6201000" />
+      <workItem from="1585481372750" duration="6910000" />
+      <workItem from="1585492858222" duration="34000" />
+      <workItem from="1585574407006" duration="12204000" />
+      <workItem from="1585654387653" duration="6835000" />
+      <workItem from="1585829717451" duration="5507000" />
+      <workItem from="1585912119218" duration="5946000" />
+      <workItem from="1585920105639" duration="74000" />
+      <workItem from="1585997702145" duration="8779000" />
+      <workItem from="1586083931472" duration="16424000" />
+      <workItem from="1586173561557" duration="13366000" />
+      <workItem from="1586197653213" duration="99000" />
+      <workItem from="1586198017727" duration="1391000" />
+      <workItem from="1592575189683" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1585218687017">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1585218687017" />
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom" timestamp="1586199412655">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586199412655" />
+    <state width="1323" height="175" key="GridCell.Tab.0.center" timestamp="1586199412655">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586199412655" />
+    <state width="1323" height="175" key="GridCell.Tab.0.left" timestamp="1586199412655">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586199412655" />
+    <state width="1323" height="175" key="GridCell.Tab.0.right" timestamp="1586199412655">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586199412655" />
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1583077361436">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583077361436" />
+    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1583077361436">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1583077361436" />
+    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1583077361436">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1583077361436" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1583077361436">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1583077361436" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1586199203833">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586199203833" />
+    <state x="385" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586198026478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="385" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586198026478" />
+    <state x="345" y="4" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581455774810">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="345" y="4" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1581455774810" />
+    <state x="92" y="92" width="1182" height="554" key="dock-window-1" timestamp="1585481534792">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="dock-window-1/0.0.1366.738@0.0.1366.738" timestamp="1585481534792" />
+    <state x="92" y="92" width="1182" height="554" key="dock-window-2" timestamp="1585481534792">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="dock-window-2/0.0.1366.738@0.0.1366.738" timestamp="1585481534792" />
+    <state x="92" y="92" width="1182" height="554" key="dock-window-3" timestamp="1585481534792">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="dock-window-3/0.0.1366.738@0.0.1366.738" timestamp="1585481534792" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Challenges$challenge_35___Loan_Calculator_App__.coverage" NAME="challenge 35 - Loan Calculator App - Coverage Results" MODIFIED="1586198707271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
